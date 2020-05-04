@@ -6,4 +6,4 @@ Homework 2 - completed;
 Homework 3 - completed;
 Homework 4 - completed;
 Homework 5 - completed;
-
+Final Project - work in progress;
