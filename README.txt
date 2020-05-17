@@ -8,4 +8,5 @@ Homework 4 - completed;
 Homework 5 - completed;
 Final Project - work in progress:
       -uploaded the canvases
-      -uploaded the first version of the design
+      -uploaded the first progress of the design
+      -uploaded the second progress of the design
