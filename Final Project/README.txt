@@ -1,4 +1,5 @@
 This is the folder for the final project of the 3DMP course.
+
 Sketches folder: Homework 6;
 3D Versions folder:-V8 - Progress 1: - create frame
                                      - create handle
@@ -10,4 +11,9 @@ Sketches folder: Homework 6;
                                       - build the circles with the legs and create the holes in the frame
                                       - upgrade the each disk and each circle from body to component
                                       - add the joints, rigidgroups and contactsets
+                   -V25 - Final: -add joint limits
+                                 -edit joint limits to rest
+                                 -add apearances and set the scene
+                                 -render images and video
+                                 -export STLs
                                       
