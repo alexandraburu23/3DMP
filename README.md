@@ -15,10 +15,10 @@ Homework 5 - completed;
 
 Final Project - completed:
 
--uploaded the canvases
+- uploaded the canvases
       
--uploaded the first progress of the design
+- uploaded the first progress of the design
       
--uploaded the second progress of the design
+- uploaded the second progress of the design
       
--uploaded the final version of the design and README file
+- uploaded the final version of the design and README file
