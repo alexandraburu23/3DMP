@@ -1,7 +1,7 @@
 
 # Water Drop Mechanism
 
-This is the mechanism I chose for the Final Project of the 3DMP Course. It is made of many components that put together simulate the wave-effect created by a drop  when it hits a body of water.
+This is the mechanism I chose for the Final Project of the 3DMP Course. It is made of many components that, put together, simulate the wave-effect created by a drop  when it hits a body of water.
 I chose this because it is very visual-pleasing and the way the mechanism works is very satisfying.
 
 
