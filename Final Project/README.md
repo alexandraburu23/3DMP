@@ -25,7 +25,7 @@ In this repository, there are the following file-types: .stl, .f3d, .png, .jpg, 
 - https://tangoofthegeeks.blogspot.com/2018/12/mimic-springs-or-gravity-in-fusion-360.html?fbclid=IwAR02CJZooQ_ofS7t-gsluVwiHOrX5u1hHL5EwLepv29lLNLg64u8l7QL_Mk
 - https://www.youtube.com/watch?v=TbgPr0gt-wA&feature=youtu.be&t=709&fbclid=IwAR0rOMhE21aOkituLrEK3Q9u-FRReSQDWl_nFKsabDDvYk5Jgycxoi1wJaI
 
-##Original Creator
+## Original Creator
 This model designed is inspired by the model developed by [Solidworks](https://blogs.solidworks.com/tech/2018/12/3d-printing-a-mechanical-water-droplet.html).
 
 ## Software
