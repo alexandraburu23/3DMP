@@ -18,6 +18,7 @@ The legs of the circles have contact with the disks and as the disks rotate the 
 
 ## File Types
 In this repository, there are the following file-types: .stl, .f3d, .png, .jpg, .mp4 .
+
 ##Resources
 - https://www.youtube.com/watch?v=7F68ZkvHIuU
 - https://blogs.solidworks.com/tech/2018/12/3d-printing-a-mechanical-water-droplet.html 
